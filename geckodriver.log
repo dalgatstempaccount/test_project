@@ -1,0 +1,50 @@
+1646010422971	geckodriver	INFO	Listening on 127.0.0.1:39071
+1646010422977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53901" "-no-remote" "-profile" "/tmp/rust_mozprofileCtJFYn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1646010425800	Marionette	INFO	Marionette enabled
+
+(firefox:59247): GLib-GIO-CRITICAL **: 04:07:06.045: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:59247): GLib-GIO-CRITICAL **: 04:07:06.046: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCtJFYn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53901/devtools/browser/48cd1df3-c284-462f-bf9d-28b17bb9c4b9
+1646010429544	Marionette	INFO	Listening on port 42575
+1646010429664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Invalid port. Exiting...
+Invalid port. Exiting...
+1646010840253	Marionette	INFO	Stopped listening on port 42575
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646010868529	geckodriver	INFO	Listening on 127.0.0.1:59183
+1646010869045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54007" "-no-remote" "-profile" "/tmp/rust_mozprofileMehJuQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1646010870623	Marionette	INFO	Marionette enabled
+
+(firefox:61346): GLib-GIO-CRITICAL **: 04:14:30.766: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:61346): GLib-GIO-CRITICAL **: 04:14:30.767: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMehJuQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54007/devtools/browser/36db01f7-d132-4358-923f-88a777a40271
+1646010873638	Marionette	INFO	Listening on port 35271
+1646010873708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:3000"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646014701023	Marionette	INFO	Stopped listening on port 35271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
